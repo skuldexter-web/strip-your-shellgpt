@@ -59,8 +59,8 @@ Everything else (`curl`, `python3`, `python3-venv`, `zstd`, Ollama) is installed
 Replace `<repo-name>` with the name of this repository.
 
 ```bash
-git clone https://github.com/skuldexter-web/<repo-name>.git
-cd <repo-name>
+git clone https://github.com/skuldexter-web/strip-your-shellgpt.git
+cd strip-your-shellgpt
 chmod +x install.sh
 ./install.sh
 ```
